@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
 	name = 'OpenBubi',
 	packages = ['OpenBubi'],
-	version = '0.1',
+	version = '0.3',
 	license='MIT',
 	description = 'Open-source module for the Hungarian bike-rental system, MOL Bubi',
 	author = 'PiciAkk',
