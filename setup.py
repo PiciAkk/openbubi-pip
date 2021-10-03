@@ -8,7 +8,7 @@ setup(
 	author = 'PiciAkk',
 	author_email = 'marci@dbx.hu',
 	url = 'https://github.com/piciakk/OpenBubi',
-	download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+	download_url = 'https://github.com/PiciAkk/openbubi-pip/archive/refs/tags/v0.3.tar.gz',
 	keywords = ['MOL Bubi', 'MOL', 'Bubi', 'Budapest', 'Hungary', 'Magyarország', 'API', 'Module', 'Reverse-Engineering'],
 	install_requires = [
 		  'requests',
